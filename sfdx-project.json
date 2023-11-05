@@ -1,0 +1,8 @@
+{
+  "packageDirectories": [     {       "path": "es-base-custom",       "default": true     },     {       "path": "es-base-ext"     },     {       "path": "es-base-styles"     }   ],
+  
+  "name": "main",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "57.0"
+}
